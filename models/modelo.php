@@ -28,6 +28,7 @@ class EnlacesPaginasModelo
             //Login
             'login',
             'dashboard',
+            'NuevoUsuario',
             //Consulta
             'resultados',
             //Otros
